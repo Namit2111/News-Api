@@ -53,6 +53,3 @@ If there is an error retrieving the news articles, the API will return a JSON ob
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the server: `python app.py`
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
